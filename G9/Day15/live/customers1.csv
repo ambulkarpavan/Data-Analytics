@@ -1,0 +1,7 @@
+CustomerID,Name,Age,City,Spending
+101,Alice,25.0,Delhi,2500.5
+102,Bob,,Mumbai,1800.0
+103,Charlie,35.0,Chennai,3200.0
+104,David,40.0,,1500.0
+105, Pavan, 27.0
+106, Ayush 19.0, abc, 1000, Punjab, ind
